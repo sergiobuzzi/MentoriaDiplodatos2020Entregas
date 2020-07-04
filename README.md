@@ -1,3 +1,16 @@
+# ___LINKS A REPOSITORIOS CON LAS ENTREGAS DE LOS GRUPOS 1 Y 2___
+
+[Grupo 1](https://github.com/Martin317/mentoria-prediccion-indices-financieros)
+
+[Grupo 2](https://github.com/rengo/MentoriaDiploDatos)
+
+
+
+
+
+
+
+
 ### MentoriaDiplodatos2020
 
 ## Repositorio de la mentoría: 
