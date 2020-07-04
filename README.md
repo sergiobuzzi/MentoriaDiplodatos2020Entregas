@@ -1,8 +1,8 @@
 # ___LINKS A REPOSITORIOS CON LAS ENTREGAS DE LOS GRUPOS 1 Y 2___
 
-___[Grupo 1]___(https://github.com/Martin317/mentoria-prediccion-indices-financieros)
+___Grupo 1___ https://github.com/Martin317/mentoria-prediccion-indices-financieros
 
-___[Grupo 2]___(https://github.com/rengo/MentoriaDiploDatos)
+___Grupo 2___ https://github.com/rengo/MentoriaDiploDatos
 
 
 
