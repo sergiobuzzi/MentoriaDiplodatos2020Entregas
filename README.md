@@ -2,13 +2,8 @@
 
 ___Grupo 1___ https://github.com/Martin317/mentoria-prediccion-indices-financieros
 
-___Grupo 2___ https://github.com/rengo/MentoriaDiploDatos
-
-
-
-
-
-
+___Grupo 2___  TP 1 y 2: https://github.com/rengo/MentoriaDiploDatos
+                   TP 3: https://github.com/tomascolla95/Mentoria-DiploDatos/blob/master/Tercera%20Entrega.ipynb
 
 
 ### MentoriaDiplodatos2020
