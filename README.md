@@ -1,10 +1,14 @@
 # ___LINKS A REPOSITORIOS CON LAS ENTREGAS DE LOS GRUPOS 1 Y 2___
 
-___Grupo 1___ https://github.com/Martin317/mentoria-prediccion-indices-financieros
+___Grupo 1___ 
 
-___Grupo 2___  TP 1 y 2: https://github.com/rengo/MentoriaDiploDatos
+https://github.com/Martin317/mentoria-prediccion-indices-financieros
 
-                   TP 3: https://github.com/tomascolla95/Mentoria-DiploDatos/blob/master/Tercera%20Entrega.ipynb
+___Grupo 2___  
+
+TP 1 y 2: https://github.com/rengo/MentoriaDiploDatos
+
+TP 3: https://github.com/tomascolla95/Mentoria-DiploDatos/blob/master/Tercera%20Entrega.ipynb
 
 
 ### MentoriaDiplodatos2020
